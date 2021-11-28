@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="571" class="">
     <defs>
         <style/>
     </defs>
@@ -1447,7 +1447,8 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">
-                        </div>
+            Hi! I'm a full stack developer from Norway and partner in Marketin SEO- and webagency. Send me an email if you think we can cooperate!
+          </div>
                     </section>
                 </div>
             </section>
@@ -1613,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2021, 12:02:36 (timezone Europe/Oslo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 12:16:34 (timezone Europe/Oslo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
